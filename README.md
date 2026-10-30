@@ -1,16 +1,89 @@
-# React + Vite
+# Roshan's Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my portfolio website, built with **React** and **Vite** using the editorial Stitch design system.
 
-Currently, two official plugins are available:
+## About Me
+I'm Roshan, an engineering student interested in the intersection of creativity, technology, and artificial intelligence. I use AI-powered tools to transform ideas into digital experiences while exploring website design, visual branding, and creative projects.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Through personal projects and WibzZite, my digital venture, I'm continuously developing my creative skills, experimenting with new technologies, and finding innovative ways to bring ideas to life.
 
-## React Compiler
+## Skills
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Website Design and AI-Assisted Development
+- Website Concept Development
+- Website Layout and Visual Design
+- UI Design and Visual Hierarchy
+- Colour Palette Selection
+- Brand Identity Concepts
+- AI-Assisted Website Development
+- Website Deployment Using AI-Assisted Workflows
 
-## Expanding the Oxlint configuration
+### Creative Direction
+- Visual Design Direction
+- Brand Aesthetics
+- Typography and Colour Coordination
+- Creative Concept Development
+- Digital Portfolio Presentation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Short-Form Video Editing
+- Instagram Reels Editing
+- Promotional Video Editing
+- Visual Storytelling
+- Music Synchronisation and Transitions
+- Pacing and Visual Composition
+- Social Media Video Editing
+
+## Tools and Platforms
+
+- Google Antigravity
+- GitHub
+- GitHub Pages
+- AI-Powered Development Tools
+
+## Featured Projects
+
+### WibzZite
+A digital venture focused on website design, branding, promotional videos, and creative digital experiences.
+
+### Aadhya Rao
+A concept website for a makeup artist exploring portfolio presentation, visual identity, and a distinctive digital presence.
+
+[View Project](https://wibzzite-ui.github.io/Aadhya-Rao/)
+
+### Orah Brew Garden
+A café website concept exploring how visual storytelling, thoughtful layout, and brand aesthetics create an engaging online presence.
+
+[View Project](https://wibzzite-ui.github.io/orahbrew/)
+
+## Currently Learning
+
+- C Programming
+- Python Programming
+- Website Development Fundamentals
+- AI-Assisted Development Workflows
+- Website Deployment and Maintenance
+- Practical Applications of Artificial Intelligence
+
+## Objective
+
+To combine creative thinking, AI-assisted development, and short-form video editing to build engaging digital experiences and distinctive visual identities.
+
+*Learning, experimenting, and improving with every project.*
+
+---
+
+## Development Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Start local development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+```

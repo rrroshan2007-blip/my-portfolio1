@@ -9,6 +9,13 @@
     <meta property="og:title" content="Roshan | Creative Portfolio" />
     <meta property="og:description" content="Engineering student exploring website design, visual branding, and creative possibilities through AI-powered tools." />
     <meta property="og:type" content="website" />
+    <script>
+      // Fallback: If GitHub Pages serves root folder instead of /docs, redirect to /docs/
+      if (window.location.hostname.endsWith('github.io') && !window.location.pathname.includes('/docs')) {
+        const basePath = window.location.pathname.replace(/\/$/, '');
+        window.location.replace(basePath + '/docs/' + window.location.search + window.location.hash);
+      }
+    </script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@300;400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
